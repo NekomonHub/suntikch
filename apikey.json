@@ -1,0 +1,13 @@
+{
+	"apikeylist": [
+		"V0wfveF25m2Ox4xwDiTCNlraEQVu5As04OSfYjFWXs1OaoKRH3GR25i2flJ7Xn5TTzTc17oihsdcqztrKP7aNNZqSWbv70ttBcy51RCUoZl9GYtzd7kuaWxBYJ3YXatN",
+		"BYY5kxKRHTGKbrUpsSi2qsV3myN55xgaQLqVYH93dCUN6ALS7SIakKTm9QFRI2YZp2fVRyX5Ly7FnKCguSs6QMB9PTNbWtXfSGdTfk9FMctT94dToWybplnxnRd4PtYB",
+		"vPRghZGt6HfxZSI9UahufniN2uz28mNNwPE8fzbhbawTfmA7oFdExZh7msLnYwGouQzDbssMo8POfY3XdXPj04eaMSIQSsl01ufROXNrPAWk6gVSWgDODOcBeXUDElqQ",
+		"UcmUN28jwQCXB1Y2FFV4DTlHiRw6FgSsK6ZHETQlzdxpPjo0rlf0ft6AAsghv3ZjbO8eNgeeSbpHpBchYfT8WSkexUSLlQPYUzOIbUWC70ZSFN6Ix9x2L2jrYzY4uiWk"
+	],
+	"methods": {
+		"post": true,
+		"get": true,
+		"head": false
+	} 
+}
